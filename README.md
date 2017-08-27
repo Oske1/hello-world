@@ -1,3 +1,5 @@
 # hello-world
 prvi repository
-Zovem se Oske i ima da izdominiram!
+zovem se Oske i ima da izdominiram!
+prva izmena
+da vidim kako radi git
